@@ -8,6 +8,6 @@
     "repository": "https://github.com/adambirds/recipe-office365-owa",
     "license": "MIT",
     "config": {
-        "serviceURL": "https://outlook.office365.com/owa/?path=/calendar/view/WorkWeek"
+        "serviceURL": "https://outlook.office.com/calendar/view/workweek"
     }
 }
